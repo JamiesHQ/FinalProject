@@ -1,6 +1,6 @@
-Step0: import libraries
+Step0: Import libraries
 Step1: Refactor old code to be able to import the module separately 
 Step2: Create module that creates list of repos
-Step3: Feed list of repositories for processing with the old code
+Step3: Feed list of repositories for processing to the old code
 Step4: Aggregate result of multi-repo into dictionaries
 Step5: Write data to CSV
